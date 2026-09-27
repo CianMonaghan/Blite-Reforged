@@ -1,0 +1,9 @@
+--name "Blite Reforged"
+--type app-image
+--icon src/resources/images/BliteReforgedLogo.ico
+--dest src
+--vendor "Cian Monaghan"
+--input .
+--main-jar blite_reforged.jar
+--main-class Blite
+
