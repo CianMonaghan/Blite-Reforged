@@ -1,15 +1,21 @@
 package main;
+import javax.swing.*;
+import java.awt.*;
+import java.net.URL;
 /**
  * Window
  * 
  * Creates a window using Swing
+ * @author Cian Monaghan
  */
 
-import javax.swing.*;
-import java.awt.*;
-import java.net.URL;
-
 public class Window extends JFrame{
+    /**
+     * Creates a window frame in the middle of the screen with the inputted text
+     * 
+     * @param windowName name of the window
+     * @param windowText what appears inside the window
+     */
     public Window(String windowName, String windowText) {
         SwingUtilities.invokeLater(() -> {
             setTitle(windowName);
