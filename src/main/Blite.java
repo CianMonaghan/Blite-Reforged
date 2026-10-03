@@ -6,11 +6,14 @@ import javax.swing.SwingUtilities;
  * 
  * A Dungeons and Dragons Character Sheet Creator for 5th Edition
  * @author Cian Monaghan
- * @version 0.0.2
+ * @version 0.0.3
  */
 public class Blite {
     /**
-     * Main function that creates a window that prints Hello World
+     * Main function
+     * <p>
+     * Creates window that has image box on top with red border and "Hello World" on bottom
+     * 
      * @param args blank
      */
     public static void main(String[] args) {

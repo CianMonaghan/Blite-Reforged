@@ -1,0 +1,51 @@
+TODO:
+-Java Classes for each JPanel we'll need
+-Do calculations locally/in each class and then display it
+    -Photo
+        -Preset photo to be of specific size (ex. 200x200) before putting it in image
+
+    -Info Box (name, race, background, classes, level)
+
+    -Generic ability box
+
+    -Prof Bonus
+
+    -Passive Perception
+
+    -Saving Throws
+
+    -Skills Box
+
+    -AC
+
+    -Initiative
+
+    -Speed
+
+    -HP (max, temp, current)
+
+    -Hit Dice (current, total)
+
+    -Death Saves
+        -Custom Death/Heart buttons
+
+    -Attacks
+        -Scrollable
+    
+    -Features
+        -Large
+        -Scrollable
+    
+    -Equipment
+        -Large
+        -Scrollable
+
+    -Treasures
+        -Custom label images for each coin type
+        -Magic Item section
+            -Scrollable
+    
+    -Spells
+        -Pinned spellcasting ability, save DC, and attack bonus
+        -Scrollable
+        -Most complex
