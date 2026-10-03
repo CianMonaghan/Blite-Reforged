@@ -6,7 +6,7 @@ import javax.swing.SwingUtilities;
  * 
  * A Dungeons and Dragons Character Sheet Creator for 5th Edition
  * @author Cian Monaghan
- * @version 0.0.3
+ * @version 0.0.4
  */
 public class Blite {
     /**
